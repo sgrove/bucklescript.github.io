@@ -7,7 +7,7 @@ title: Installation
 If you'd like to install BuckleScript globally, do:
 
 ```sh
-yarn global add bs-platform
+yarn global add bs-platform hj h hj h h
 ```
 
 or
